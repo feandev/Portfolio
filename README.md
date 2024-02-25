@@ -9,6 +9,7 @@ Hi, my name is Paweł Jarmakowicz and I am front-end developer. My current goal 
 * JavaScript, TypeScript
 * Playwright
 * CSS, HTML
+* Test cases
 * Test scripts in Postman
 * GIT
 * Basic SQL
@@ -31,20 +32,20 @@ Hi, my name is Paweł Jarmakowicz and I am front-end developer. My current goal 
 
 # Courses
 
-* Praktyczne wprowadzenie do testów automatycznych z Playwright - https://jaktestowac.pl/
+* [Praktyczne wprowadzenie do testów automatycznych z Playwright](https://jaktestowac.pl/) 
 
-* Praktyczny kurs testowania oprogramowania
+* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
 
-* Automatyzacja testów: WebdriverIO + Typescript - Jenkins
+* [Automatyzacja testów: WebdriverIO + Typescript - Jenkins](https://www.udemy.com/course/testowanie-automatyczne-webdriverio/)
 
-* Postman od podstaw - testowanie REST API
+* [Postman od podstaw - testowanie REST API](https://www.udemy.com/course/postman-od-podstaw-testowanie-rest-api/)
 
-* Kurs SQL od podstaw | MySQL - in progress
+* [Kurs SQL od podstaw | MySQL - in progress](https://www.udemy.com/course/kurs-sql-od-podstaw/)
  
 
 # Books
 
-* Zawód tester - Radosław Smilgin
+* Zawód tester - R.Smilgin
 * Certyfikat Testera. Przygotowanie do egzaminu w pytaniach i odpowiedziach - Rafał Podraza
 
 # My Projects
