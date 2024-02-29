@@ -14,6 +14,7 @@ I worked over 4 years in Intredo, a full-service marketing international company
 - JavaScript, TypeScript
 - Playwright
 - CSS, HTML
+- Test automation
 - Test cases
 - Test scripts in Postman
 - GIT
