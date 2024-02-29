@@ -15,7 +15,6 @@ Hi, my name is Paweł Jarmakowicz and I am front-end developer. My current goal 
 * Basic SQL
 * Web development
 * Websites performance
-* Webpack
 * Bug reports
 
 # Tools
@@ -51,3 +50,5 @@ Hi, my name is Paweł Jarmakowicz and I am front-end developer. My current goal 
 # My Projects
 
 * [test automation in Playwright and TypeScript](https://github.com/feandev/UI-test-automation-project)
+
+* [test cases project](https://github.com/feandev/Test-cases-project)
