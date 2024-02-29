@@ -6,7 +6,7 @@ Hi, my name is Paweł Jarmakowicz and I am front-end developer. My current goal 
 
 # My experience in IT
 
-I worked over 4 years in Intredo, a full-service marketing international company. I was mostly responsible for creating new and servicing current websites. I worked closely with backend developers from Enzode Software house which was part of the same company holding. I did a lot of code optimisation, website testing. I had experience with testing company internal applications and bug reporting in Jira. That experience had started my passion for software testing and bug searching.
+I worked over 4 years in Intredo, a full-service marketing international company. I was mostly responsible for creating new and servicing current websites. I worked in front-end development team and also closely with backend developers from Enzode Software house which was part of the same company holding. I did a lot of code optimisation, manual and exploratory testing. I had experience with testing company internal applications and bug reporting in Jira. That experience had started my passion for software testing and bug searching.
 
 
 # Tech skills
@@ -38,7 +38,7 @@ I worked over 4 years in Intredo, a full-service marketing international company
 # Soft skills
 
 - attention to detail 
-- analytical thinking (I love sudoku)
+- analytical thinking
 - adaptability (I worked in psychology and IT)
 - communication
 
