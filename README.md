@@ -11,17 +11,17 @@ I worked over 4 years in Intredo, a full-service marketing international company
 
 # Tech skills
 
+- Test automation
+- Test cases
+- Bug reports
 - JavaScript, TypeScript
 - Playwright
 - CSS, HTML
-- Test automation
-- Test cases
 - Test scripts in Postman
 - GIT
 - Basic SQL
 - Web development
 - Websites performance
-- Bug reports
 
 # Tools
 
