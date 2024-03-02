@@ -55,8 +55,9 @@ I worked over 4 years in Intredo, a full-service marketing international company
 
 - [Kurs SQL od podstaw | MySQL ](https://www.udemy.com/course/kurs-sql-od-podstaw/) - in progress
 
-# Books
+# Books & tutorials
 
+- [Software Testing Material](https://www.softwaretestingmaterial.com/)
 - Zawód tester - R.Smilgin
 - Certyfikat Testera. Przygotowanie do egzaminu w pytaniach i odpowiedziach - Rafał Podraza
 
