@@ -14,6 +14,8 @@ I worked over 4 years in Intredo, a full-service marketing international company
 
 - [Bug reports project](https://github.com/feandev/Bug-reports-Jira)
 
+- [API testing project](https://github.com/feandev/API-Postman-tests)
+
 
 # Tech skills
 
