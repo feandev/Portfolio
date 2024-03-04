@@ -1,5 +1,3 @@
-# Portfolio
-
 # About me
 
 Hi, my name is Paweł Jarmakowicz and I am front-end developer. My current goal is a software tester position. I believe that my skills and knowledge will be a valuable support during software development. Let's hunt some bugs together !
@@ -7,6 +5,14 @@ Hi, my name is Paweł Jarmakowicz and I am front-end developer. My current goal 
 # My experience in IT
 
 I worked over 4 years in Intredo, a full-service marketing international company. I was mostly responsible for creating new and servicing current websites. I worked in front-end development team and also closely with backend developers from Enzode Software house which was part of the same company holding. I did a lot of code optimisation, manual and exploratory testing. I had experience with testing company internal applications and bug reporting in Jira. That experience had started my passion for software testing and bug searching.
+
+# My Projects
+
+- [Test automation project in Playwright](https://github.com/feandev/UI-test-automation-project)
+
+- [Test cases project](https://github.com/feandev/Test-cases-project)
+
+- [Bug reports project](https://github.com/feandev/Bug-reports-Jira)
 
 
 # Tech skills
@@ -58,13 +64,6 @@ I worked over 4 years in Intredo, a full-service marketing international company
 # Books & tutorials
 
 - [Software Testing Material](https://www.softwaretestingmaterial.com/)
-- Zawód tester - R.Smilgin
 - Certyfikat Testera. Przygotowanie do egzaminu w pytaniach i odpowiedziach - Rafał Podraza
 
-# My Projects
 
-- [Test automation project](https://github.com/feandev/UI-test-automation-project)
-
-- [Test cases project](https://github.com/feandev/Test-cases-project)
-
-- [Bug reports project](https://github.com/feandev/Bug-reports-Jira)
