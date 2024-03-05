@@ -1,6 +1,6 @@
 # Hi :raised_hand:
 
-My name is Paweł Jarmakowicz and I am front-end developer. My current goal is a software tester position. Let's hunt some bugs together ! :mag: :bug:
+My name is Paweł Jarmakowicz and I am front-end developer. My current goal is a software tester position.<br>Let's hunt some bugs together ! :mag: :bug:
 
 ## My experience in IT :floppy_disk:
 
