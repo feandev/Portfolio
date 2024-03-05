@@ -1,12 +1,12 @@
 # Hi :raised_hand:
 
-My name is Paweł Jarmakowicz and I am front-end developer. My current goal is a software tester position. I believe that my skills and knowledge will be a valuable support during software development.<br>
+My name is Paweł Jarmakowicz and I am front-end developer. My current goal is a software tester position. I believe that my skills and knowledge will be a valuable support during software development.
 Let's hunt some bugs together ! :mag: :bug:
 
 ## My experience in IT :floppy_disk:
 
-I worked over 4 years in Intredo, a full-service marketing international company. I was mostly responsible for creating new and servicing current websites.<br> I worked in front-end development team and also closely with backend developers from Enzode Software house. 
-I did a code optimisation, manual and exploratory testing.<br> I had experience with testing company internal applications and bug reporting in Jira. That experience had started my passion for software testing and bug searching.
+I worked over 4 years in Intredo, a full-service marketing international company. I was mostly responsible for creating new and servicing current websites. I worked in front-end development team and also closely with backend developers from Enzode Software house. 
+I did a code optimisation, manual and exploratory testing. I had experience with testing company internal applications and bug reporting in Jira. That experience had started my passion for software testing and bug searching.
 
 ## My Projects :clipboard:
 
