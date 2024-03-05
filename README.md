@@ -49,7 +49,7 @@ I did a code optimisation, manual and exploratory testing. I had experience with
 
 - attention to detail 
 - analytical thinking
-- adaptability (I worked in psychology and IT)
+- adaptability
 - communication
 
 ## Courses :tv:
