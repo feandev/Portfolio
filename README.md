@@ -5,7 +5,7 @@ Let's hunt some bugs together ! :mag: :bug:
 
 ## My experience in IT :floppy_disk:
 
-I worked over 4 years in Intredo, a full-service marketing international company. I was mostly responsible for creating new and servicing current websites. I worked in front-end development team and also closely with backend developers from Enzode Software house which was part of the same company holding. I did a lot of code optimisation, manual and exploratory testing. 
+I worked over 4 years in Intredo, a full-service marketing international company. I was mostly responsible for creating new and servicing current websites. I worked in front-end development team and also closely with backend developers from Enzode Software house. I did a lot of code optimisation, manual and exploratory testing. 
 I had experience with testing company internal applications and bug reporting in Jira. That experience had started my passion for software testing and bug searching.
 
 ## My Projects :clipboard:
