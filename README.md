@@ -4,8 +4,7 @@ My name is Paweł Jarmakowicz and I am front-end developer. My current goal is a
 
 ## My experience in IT :floppy_disk:
 
-I worked over 4 years in Intredo, a full-service marketing company. I was mostly responsible for creating new and servicing current websites.
-I did manual UI testing, RWD testing, forms validation, exploratory testing of various websites in different langauges. I had experience with testing application for managing websites and offers and bug reporting in Jira. These experiences had started my passion for software testing and bug searching.
+I worked over 4 years in Intredo, a full-service marketing company. I was mostly responsible for creating new and servicing current websites.<br>I did manual UI testing, RWD testing, forms validation, exploratory testing of various websites in different langauges. I had experience with testing application for managing websites and offers and bug reporting in Jira. These experiences had started my passion for software testing and bug searching.
 
 ## My Projects :clipboard:
 
