@@ -21,12 +21,14 @@ I did manual UI testing, RWD testing, forms validation, exploratory testing of v
 ## Tech skills :computer:
 
 - Test automation
+- UI testing, RWD testing
+- Forms validation
 - Test cases
 - Bug reports
 - JavaScript, TypeScript
 - Playwright
 - CSS, HTML
-- Test scripts in Postman
+- API testing in Postman
 - GIT
 - Basic SQL
 - Web development
