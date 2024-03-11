@@ -20,22 +20,21 @@ I worked over 4 years in Intredo, a full-service marketing company. I was mostly
 ## Tech skills :computer:
 
 - Test automation
-- UI testing, RWD testing
-- Forms validation
-- Test cases
+- Test cases design
+- UI, RWD testing
 - Bug reports
-- JavaScript, TypeScript
 - Playwright
-- CSS, HTML
-- API testing in Postman
-- GIT
+- API testing
 - Basic SQL
+- JavaScript, TypeScript
+- CSS, HTML
+- Git
 - Web development
-- Websites performance
 
 ## Tools :hammer:
 
 - Chrome DevTools
+- Postman
 - JIRA
 - TestLink
 - ShareX
