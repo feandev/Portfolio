@@ -46,13 +46,6 @@ I worked over 4 years in Intredo, a full-service marketing company. I was mostly
 - Lighthouse
 - VSCode
 
-## Soft skills :herb:
-
-- attention to detail 
-- analytical thinking
-- adaptability
-- communication
-
 ## Courses :tv:
 
 - [Praktyczne wprowadzenie do testów automatycznych z Playwright](https://jaktestowac.pl/)
