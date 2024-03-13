@@ -33,17 +33,13 @@ I worked for over 4 years at Intredo, a full-service marketing company. My respo
 
 ## Tools :hammer:
 
-- Chrome DevTools
+- TestRail
 - Postman
 - JIRA
 - TestLink
+- Chrome DevTools
 - ShareX
 - PicPick
-- BrowserStack
-- Gitlab
-- SCRUM, Kanban
-- Lighthouse
-- VSCode
 
 ## Courses :tv:
 
