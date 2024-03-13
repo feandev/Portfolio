@@ -8,18 +8,17 @@ I worked for over 4 years at Intredo, a full-service marketing company. My respo
 
 ## My Projects :clipboard:
 
-- [Test automation project in Playwright](https://github.com/feandev/UI-test-automation-project)
+- [Test cases & reports project](https://github.com/feandev/Generic-shop-Manual-testing)
 
-- [API testing project](https://github.com/feandev/API-Postman-tests)
+- [Test automation project](https://github.com/feandev/Demoblaze-Test-Automation)
 
-- [Test cases project](https://github.com/feandev/Test-cases-project)
+- [Lord of the Rings API testing project](https://github.com/feandev/Lord-of-The-Rings-API-Testing)
 
 - [Bug reports project](https://github.com/feandev/Bug-reports-Jira)
 
 
 ## Tech skills :computer:
 
-- Functional testing
 - Designing test cases
 - Test reports
 - Test automation
