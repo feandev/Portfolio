@@ -8,11 +8,11 @@ I worked for over 4 years in Intredo, a full-service marketing company. My respo
 
 ## My Projects :clipboard:
 
-- [Test cases & reports project](https://github.com/feandev/Generic-shop-Manual-testing)
+- [Test cases, scenarios and reports project](https://github.com/feandev/Generic-shop-Manual-testing)
 
 - [Test automation project](https://github.com/feandev/Demoblaze-Test-Automation)
 
-- [Lord of the Rings API testing project](https://github.com/feandev/Lord-of-The-Rings-API-Testing)
+- [API testing project](https://github.com/feandev/Lord-of-The-Rings-API-Testing)
 
 - [Bug reports project](https://github.com/feandev/Bug-reports-Jira)
 
