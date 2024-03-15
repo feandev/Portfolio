@@ -19,15 +19,15 @@ I worked in the front-end development team for over 4 years in Intredo. My respo
 
 ## Tech skills :computer:
 
-- Designing test cases
-- Test reports
-- Test automation
-- UI, RWD testing
+- Designing test cases and scenarios
+- Creating test reports
+- Writing simple test automation scripts in Playwright
+- UI, RWD testing of websites
 - Bug reports
-- API testing
+- API testing in Postman
 - Basic SQL
 - CSS, HTML, JS
-- Git
+- Version control (Git)
 - Web development
 
 ## Tools :hammer:
@@ -37,6 +37,7 @@ I worked in the front-end development team for over 4 years in Intredo. My respo
 - JIRA
 - TestLink
 - Chrome DevTools
+- MS Excel
 - ShareX
 - PicPick
 
@@ -54,7 +55,8 @@ I worked in the front-end development team for over 4 years in Intredo. My respo
 
 ## Materials :bookmark:
 
-- [Software Testing Material](https://www.softwaretestingmaterial.com/)
+- Testsigma Blog - https://testsigma.com/blog/
+- Software Testing Material - https://www.softwaretestingmaterial.com/
 - Certyfikat Testera. Przygotowanie do egzaminu w pytaniach i odpowiedziach - Rafał Podraza
 
 ## Contact :mailbox: 
